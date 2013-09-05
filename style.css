@@ -34,9 +34,9 @@
 	
 }
 
-#footer{ text-align:center; height:58px;}
-#footer ul {  font-size:11px;}
-#footer ul li {display:inline-block;}
+#nav{ text-align:center; height:58px;}
+#nav ul {  font-size:11px;}
+#nav ul li {display:inline-block;}
 
 #nav li {
 	display:block;
