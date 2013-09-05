@@ -1,6 +1,6 @@
 body {
-	color:#000;
-	background:#fff;
+	color:#000000;
+	background:#ffffff;
 	font-family:Times;
 	width:100%;
 	margin:auto;
@@ -18,7 +18,7 @@ header, main h1 {
 }
 
 a, a:visited {
-	color:#c0c0c0;
+	color:#01796F;
 	text-decoration:none;
 }
 
