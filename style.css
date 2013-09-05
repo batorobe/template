@@ -1,4 +1,4 @@
-body {
+#body {
 	color:#000000;
 	background:#ffffff;
 	font-family:Times;
@@ -7,22 +7,22 @@ body {
 }
 
 
-header, main, footer {
+#header, main, footer {
 	clear:both;
 	margin-left:0;
 	
 }
 
-header, main h1 {
+#header, main h1 {
 	color:#00ff00;
 }
 
-a, a:visited {
+#a, a:visited {
 	color:#01796F;
 	text-decoration:none;
 }
 
-a:hover {
+#a:hover {
 	color: #77ccee;
 	text-decoration: none;
 }
