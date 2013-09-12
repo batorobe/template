@@ -1,28 +1,28 @@
-#body {
-	color:#000000;
-	background:#ffffff;
-	font-family:Times;
-	width:100%;
+body {
+	color:#fff;
+	background:#333;
+	font-family:Courier;
+	width:960px;
 	margin:auto;
 }
 
 
-#header, main, footer {
+header, main, footer {
 	clear:both;
 	margin-left:0;
 	
 }
 
-#header, main h1 {
+header, main h1 {
 	color:#00ff00;
 }
 
-#a, a:visited {
-	color:#01796F;
+a, a:visited {
+	color:#c0c0c0;
 	text-decoration:none;
 }
 
-#a:hover {
+a:hover {
 	color: #77ccee;
 	text-decoration: none;
 }
@@ -33,10 +33,6 @@
 	margin-left:-40px;
 	
 }
-
-#footer { text-align: center; }
-#footer ul { list-style: none; }
-#footer ul li { display: inline; }
 
 #nav li {
 	display:block;
