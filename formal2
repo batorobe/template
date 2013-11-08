@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>Robert Bato's Cultural Analysis</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>Cultural Analysis</h1>
+		<div id="footer"></div>
+			<ol id="nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="lived.html">Lived <br />Experiences</a></li>
+				<li><a href="culturalA.html">Cultural <br />Analysis</a></li>
+				<li><a href="formalR.html">Formal <br />Research</a></li>
+				<li><a href="remix.html">Remix</a></li>
+				<li><a href="courseR.html">Course <br />Retrospective</a></li>
+				<li><a href="blog.html">Blog</a></li>
+			</ol>
+		</div>
+		</header>
+		
+                <div id="menu">
+                        <ul>
+                                <li><a href="formalR.html">Executive Summary</a></li>
+                                
+                                <li><a href="formal1.html">Scientific Article Analysis</a></li>
+                                <li><a href="formal2.html">Trade Article Analysis</a></li>
+                                <li><a href="formal3.html">Proposed Solution</a></li>
+                                <li><a href="formal4.html">Current Researcher Interview</a></li>
+                                <li><a href="formal5.html">Teacher Interview</a></li>
+                                <li><a href="formal6.html">Engineer Interview</a></li>
+                                <li><a href="formal7.html">Conclusion</a></li>
+                                
+                        </ul>
+                </div>
+                
+                <article>
+                        <h1>Trade Article Analysis</h1>
+                        <p>Another way researchers, scholars and engineers communicate is to the general public.  This is usually done through interviews and trade articles written to be more easily understood.  The material presented within trade articles is very different than the type of material written for research journals.  For example, around seven years ago, Newsweek interviewed Steve Jobs about their design philosophy.  (Jade) Within the interview Jobs talked about Apple shying away from complicated consumer products and moving towards something “holistic and simple”, something easily seen in today’s Apple products.  Previous technological products had a multitude of buttons and features that made them unwieldy; for example the Zune had a feature where you could wirelessly share music between Zune’s.  This feature, while a cool idea, was impractical to implement due to the slow wireless transfer speeds.  The iPod focused on making music more accessible and easy to play, which is one of the reasons why they cornered the market in portable mp3 players.  The interview also focused on iTunes and the role it played in the popularity of the iPod.  Much like the iPod, iTunes focused on a simple, sleek approach.  Apple focused on improving the customers experience, one of the core ideas computer engineers have, and they gained a lot of success for it.  
+Polygon, an online blog that reviews technology, recently released an interview with AMD, a popular computer chip making company. (Tach) While the interview briefly touches on “x86” technology, it doesn’t go into the exact technology and transistors behind the CPU’s but focuses on why consumers would choose AMD over their competitors.  First they talked about their ability to combine central processing units and graphics processing units into one, new technology that will decrease space needed for the processors. A partnership between AMD and a company called Crystal Dynamics was crucial to the improvement of their processors as Crystal Dynamics had experience on the other side of the chip; the programming side.   Crystal Dynamics helped them allow developers to get the most out of their products, which led to an increase in sales.  The interview also talks about the ease of use of their products and the new things their processors bring to the table like more polygons or custom tailoring to fit the customers needs.  
+	A third trade article located on Wired talks about an exoskeleton design that boosts bicep strength devised by students from the University of Pennsylvania. Much like other trade articles, the article doesn’t go too in depth into exactly how the arm works.  (Vanhemert) Instead it talks about the students who created the arm, and practical applications for the arm.  For example the arm can be used to rehabilitate the upper body, a device that there are few of.  There are devices that perform similar tasks, such as one from Tokyo that uses pressurized air to drive the device.  One drawback to this device is that it is required to be tethered to a pneumatic pump.  The cable drive system used in the device developed by students from the University of Pennsylvania allows for added mobility and a 40-pound strength boost all at a relatively low price.  This article is different from a refereed article in the way that it communicates it’s information.  For example they relate the technology used in the cable drive system to brakes on a bike, something that almost everyone can relate to. The article also goes into detail about the students and their reason for developing the arm, something that would be out of place in an academic journal.  One similarity to these kids and academic researchers is that they’re researching to make the world a better place, not just for commercial benefit.
+Information provided from trade publications is wholly different than that written in refereed material.  As seen above, refereed material mostly deals with the forefront of computer engineering research.  The refereed material is written with researchers in mind so they can use a multitude of technical terms without having to worry if their audience can understand them.  For example terms like “The Lagrangian relaxation” and “DPP 0-1 Linear formulation” may go over our heads but they’re common terms within the world of computer engineer researchers.  Trade materials on the other hand have simpler words and diagrams.  Even the more complicated concepts like “x86 architecture” and “memory bandwidth”  which were touched upon in the articles above can easily be understood by a quick google search.  The diagrams displayed in trade articles are easier to understand too.
+
+The graph quickly shows that the total memory system bandwidth for the Xbox 360 is better than the PS3.  Trade and refereed material were written by similar people, but for different audiences.  Trade material was written with showing off products and upcoming technology to the general public, while refereed was written about new upcoming technology, but with other researchers in mind.  
+
+</p>
+                </article>
+                
+		<footer>
+		<p>&copy; 2013 Robert Bato</p>
+		</footer>
+	</content>
+</body>	
