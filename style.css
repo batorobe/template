@@ -6,11 +6,18 @@ body {
 	margin:auto;
 }
 
-
-header, main, footer {
+main, footer {
 	clear:both;
 	margin-left:0;
 	
+}
+
+header {
+    height:75px;
+    width:300px;
+    background-color:grey;
+    margin-top:50px;
+    margin-left:50px;
 }
 
 header, main h1 {
