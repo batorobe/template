@@ -2,7 +2,7 @@ div {
 	border-radius: 5px;
 }
 
-#header {
+*#header {
 	z-index: 1;
 	position: fixed;
 	width: 97.5%;
@@ -28,10 +28,11 @@ h4 {
 	font-family: Verdana, sans-serif;
 }
 
-.right p {
+.right h3,p {
     position: relative;
-    float: right;
-	margin-top: 200px;
+    float: left;
+	margin-top: 70px;
+	margin-left:10px;
 	height:100%;
 	font-family: Garamond, serif;
 	color: #000000;
@@ -56,7 +57,7 @@ a:hover {
 
 
 
-#footer {
+.footer {
 	position: relative;
 	height: 50px;
 	background-color: #668284;
@@ -67,7 +68,7 @@ a:hover {
 	color: #ffffff;
 }
 
-#footer p {
+.footer p {  
 	position: relative;
-	padding-top: 15px;
+    padding-top: 15px;
 }
