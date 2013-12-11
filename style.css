@@ -15,12 +15,12 @@ main, footer {
 header {
     height:75px;
     width:300px;
-    background-color:blue;
+    background:blue;
     margin-top:50px;
     margin-left:50px;
 }
 
-header, main h1, left{
+main h1, left{
 	color:#fff;
 }
 
