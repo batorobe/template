@@ -41,7 +41,7 @@ a:hover {
 	
 }
 
-#nav li {
+#nav li ul {
 	float: left;
 	
 	margin-bottom:20px;
