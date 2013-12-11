@@ -21,7 +21,7 @@ header {
 }
 
 li {
-	display:inline;
+	display:block;
 	padding:5px;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
