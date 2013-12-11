@@ -15,9 +15,8 @@ main, footer {
 header {
     height:75px;
     width:300px;
-    background:blue;
+    background:#77ccee;
     margin-top:50px;
-    margin-left:50px;
 }
 
 main h1, left{
