@@ -20,7 +20,7 @@ header {
     margin-left:50px;
 }
 
-header, main h1 {
+header, main h1, left{
 	color:#fff;
 }
 
@@ -43,7 +43,7 @@ a:hover {
 
 #nav li {
 	float: left;
-	padding:5px;
+	
 	margin-bottom:20px;
 	margin-right:10px;
 	height:30px;
