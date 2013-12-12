@@ -2,6 +2,10 @@ div {
 	border-radius: 5px;
 }
 
+html{
+  background-image:url('http://i.imgur.com/IEvpDV5.png');
+}
+
 #header {
 	z-index: 1;
 	position: fixed;
