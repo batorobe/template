@@ -11,7 +11,7 @@ function insertAt(index, string);{
 function convert(inputValue) {
 	
 	var caratArrow = "^< ^>";
-
+	var newURL = inputValue
   while (inputValue.charAt(0) == ' ') {inputValue = inputValue.substr(1)};
   if (inputValue.indexOf(' ') != -1) {inputValue = inputValue.substr(0, inputValue.indexOf(' '))}
 
@@ -20,10 +20,10 @@ function convert(inputValue) {
 	return '';
   }
   else {
-    inputValue.insertAt(58, caratArrow);
+    newURL.insertAt(58, caratArrow);
     msg = inputValue;
   }
-  return msg;
+  return newURL;
 }
 
 //-->
