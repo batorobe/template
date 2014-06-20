@@ -1,9 +1,27 @@
+<script language=javascript>
+
+function convert(inputURL){
+	var iURLLen = inputURL.length;
+	var cArrow = '^< ^>'
+	var newURL = [inputURL.slice(0,58), cArrow, inputURL.slice(58)].join('');
+	while(iURLLen >58){
+		
+		
+	}	
+}
+
+
+
+</script>
+
+
 <!DOCTYPE html>
 <head>
 <meta name="description" content="Basic Portfolio">
 <meta name="author" content="name goes here">
 <meta charset="UTF-8">
 <link type="text/css" rel="stylesheet" href="style.css">
+<script language="JavaScript" src="/misc_functions.js" type="text/javascript"></script>
 <title>Robert Bato's Portfolio</title>
 </head>
 <html>
@@ -28,10 +46,15 @@
 			</ul>
 		</div>
 		<div class="right">
-			<h3>About Me</h3>
+			<h3>Converter</h3>
 			<p>I'm a 19 year old sophmore computer engineering student from East Lansing, Michigan.  Some of my hobbies include playing video games and running.  I have one little sister in 8th grade and a cat.  This is my first WRA class and was recommended to me by my friends.</p>
 			<p></p>
-			<h3>Click on a link to the side to get started!</h3>
+			<CENTER>
+			<form name="f" onSubmit="this.box.value = convert(this.box.value); this.box.focus(); return false">
+  			<input type="text" name="box" style="font-family: courier" /><br>
+			 <input type="submit" value="Convert"/>
+			</form>
+</CENTER>
 			
 		</div>
 		
