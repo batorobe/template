@@ -4,10 +4,16 @@ function convert(inputURL){
 	var iURLLen = inputURL.length;
 	var cArrow = '^< ^>'
 	var newURL = [inputURL.slice(0,58), cArrow, inputURL.slice(58)].join('');
-	while(iURLLen >58){
+	var initPos = 58
+	var index = 64;
+	iUrlLen-=58;
+	while(iURLLen >0){
+		initPos+=58;
+		index+=58;
+		var newURL = [inputURL.slice(initPos,index), cArrow, inputURL.slice(index)].join('');	
 		
-		
-	}	
+	}
+	return newURL;
 }
 
 
