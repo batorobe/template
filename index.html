@@ -4,9 +4,6 @@
 <!-- The JavaScript Source!! http://javascript.internet.com -->
 <!-- Original Steven H. Gibbs  -->
 
-function insertAt(index, string);{
-	return this.substr(0, index) + string + this.substr(index);}
-
 
 function convert(inputValue) {
 	
@@ -23,7 +20,7 @@ function convert(inputValue) {
 	return '';
   }
   else {
-    newURL.insertAt(58, caratArrow);
+    newURL.insert(58, caratArrow);
     msg = newURL;
   return msg;
 }
